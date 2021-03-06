@@ -1,3 +1,9 @@
 html {
   font-family: 'Poppins', sans-serif;
 }
+td {
+  width: 50px;
+  height: auto;
+  background-color: yellow;
+  text-align: center;
+}
